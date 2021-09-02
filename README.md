@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Analise e Desenvolvimento de sistemas.
 - 😍 Amante de conhecimento e tecnologia.
-- 🌱 Grande interessado em Front-End.
+- 🌱 Interessado em Front-End.
 
 <div>
   <a href="https://github.com/Lucasllo">
