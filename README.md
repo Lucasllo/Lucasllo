@@ -1,8 +1,8 @@
 ## Oie! Eu sou Lucas Lopes ✌
 
-- 🔭 Estudante de Analise e Desenvolvimento de sistemas.
+- 🔭 Desenvolvimento de sistemas.
 - 😍 Amante de conhecimento e tecnologia.
-- 🌱 Interessado em Front-End.
+- 🌱 Java Development, Angular, NestJs.
 
 <div>
   <a href="https://github.com/Lucasllo">
