@@ -1,20 +1,67 @@
-## Oie! Eu sou Lucas Lopes ✌
+# 👨‍💻 Lucas Lopes de Oliveira
 
-- 🔭 Desenvolvimento de sistemas.
-- 😍 Amante de conhecimento e tecnologia.
-- 🌱 Java Development, Angular, NestJs.
+Desenvolvedor Backend com foco em Java, Spring Boot e construção de APIs REST.
 
-<div>
-  <a href="https://github.com/Lucasllo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasllo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasllo&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
-  ![Snake animation](https://github.com/Lucasllo/Lucasllo/blob/output/github-contribution-grid-snake.svg)
+---
+
+## 🚀 Sobre mim
+
+Sou Desenvolvedor Backend com mais de 4 anos de experiência no desenvolvimento e manutenção de sistemas corporativos.
+
+Atuo com Java e Spring Boot na construção de APIs REST, integração de sistemas e modernização de aplicações legadas. Tenho experiência com banco de dados PostgreSQL e também trabalho com Angular para apoio no frontend.
+
+No dia a dia, utilizo boas práticas como Clean Code e SOLID, além de ferramentas de Inteligência Artificial para aumentar a produtividade e qualidade do código.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+* **Backend:** Java, Spring Boot, Spring Framework
+* **Frontend:** Angular, JavaScript
+* **Banco de Dados:** PostgreSQL, SQL
+* **Legado:** JSF (JavaServer Faces)
+* **Ferramentas:** Git, Maven
+* **Metodologias:** Scrum, Agile
+
+---
+
+## 💼 Experiência
+
+Atualmente atuo como Desenvolvedor Backend, trabalhando com:
+
+* Manutenção e evolução de sistemas legados em Java (JSF)
+* Desenvolvimento de novas soluções com Spring Boot
+* Criação e manutenção de APIs REST
+* Integração entre sistemas
+* Modelagem e otimização de banco de dados PostgreSQL
+
+---
+
+## 📌 Principais competências
+
+* Desenvolvimento de APIs REST
+* Integração de sistemas
+* Modernização de sistemas legados
+* Arquitetura backend
+* Boas práticas de desenvolvimento (Clean Code, SOLID)
+
+---
+
+## 📈 Em constante evolução
+
+Atualmente focado em:
+
+* Aprimorar conhecimentos em arquitetura de software
+* Evoluir em backend com Java e ecossistema Spring
+* Explorar uso de Inteligência Artificial no desenvolvimento
+
+---
+
+## 📫 Contato
+
+* 📧 Email: [lucaslopesoliveira@gmail.com](mailto:lucaslopesoliveira@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/lucaslopesllo
+
+---
+
+⭐ Se quiser trocar ideias sobre tecnologia, backend ou projetos, fique à vontade para entrar em contato!
